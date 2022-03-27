@@ -11,6 +11,7 @@
   inputs.src-horde3d-master.ref   = "refs/heads/master";
   inputs.src-horde3d-master.owner = "fowlmouth";
   inputs.src-horde3d-master.repo  = "horde3d";
+  inputs.src-horde3d-master.dir   = "";
   inputs.src-horde3d-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
