@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651555523,
-        "narHash": "sha256-4s9BkoO/JAxDEF5fisxTZKbr3JXSIRIT2XhQP4K46MA=",
+        "lastModified": 1651918013,
+        "narHash": "sha256-FlYx17oi/ooYR4NncsiE8XaJ89EbeN5ptqojK7G1crY=",
         "owner": "nim-nix-pkgs",
         "repo": "horde3d",
-        "rev": "536c93522acdf2c55b3e74e636a379a7d3aa92ba",
+        "rev": "c3f4ba4697f6462bc2414bdfef013f5ef7c8e4a8",
         "type": "github"
       },
       "original": {
